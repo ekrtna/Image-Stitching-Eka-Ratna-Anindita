@@ -1,4 +1,4 @@
-# Image Stitiching
+# Image Stitching
 
 Laporan 5 Image Stitching SK5C Eka Ratna Anindita
 
